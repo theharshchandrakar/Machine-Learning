@@ -1,11 +1,11 @@
-Order ID,Order Date,Place of Shipment,Mode of Payment
+Order ID,Order Date,Place of Shipment,Payment Terms
 32 90 001,31-Dec-10,Pune,Cheque
-32 90 002,06-Jan-11,Nasik,Online
+32 90 002,6-Jan-11,Nasik,Online
 32 90 003,14-Jan-11,Ahmednagar,Cash
 32 90 004,18-Feb-11,Nanded,Cheque
 32 90 005,19-Feb-11,Kolhapur,Cash
-32 90 006,01-Mar-11,Buldhana,Online
-32 90 007,04-Mar-11,Nasik,Online
+32 90 006,1-Mar-11,Buldhana,Online
+32 90 007,4-Mar-11,Nasik,Online
 32 90 008,15-Mar-11,Pune,Online
 32 90 009,19-Mar-11,Mumbai,Online
 32 90 010,29-Mar-11,Thane,Online
@@ -22,13 +22,13 @@ Order ID,Order Date,Place of Shipment,Mode of Payment
 32 90 021,23-Sep-11,Dhule,Cash
 32 90 022,28-Sep-11,Ratnagiri,Online
 32 90 023,12-Oct-11,Raigad,Online
-32 90 024,01-Nov-11,Sindhudurga,Cheque
+32 90 024,1-Nov-11,Sindhudurga,Cheque
 32 90 025,13-Nov-11,Nanded,Cheque
 32 90 026,20-Nov-11,Dhule,Online
 32 90 027,11-Dec-11,Pune,Online
 32 90 028,14-Dec-11,Mumbai,Online
 32 90 029,30-Dec-11,Aurangabad,Online
-32 90 030,01-Jan-12,Ahmednagar,Cash
+32 90 030,1-Jan-12,Ahmednagar,Cash
 32 90 031,23-Jan-12,Ratnagiri,Cash
 32 90 032,24-Jan-12,Thane,Cash
 32 90 033,13-Mar-12,Thane,Cash
@@ -55,7 +55,7 @@ Order ID,Order Date,Place of Shipment,Mode of Payment
 32 90 054,15-Feb-13,Pune,Cash
 32 90 055,11-Feb-13,Mumbai,Cash
 32 90 056,13-Feb-13,Thane,Cheque
-32 90 057,01-Mar-13,Ratnagiri,Cheque
+32 90 057,1-Mar-13,Ratnagiri,Cheque
 32 90 058,13-Mar-13,Raigad,Cheque
 32 90 059,14-Apr-13,Sindhudurga,Online
 32 90 060,14-Apr-13,Goa,Online
@@ -66,6 +66,6 @@ Order ID,Order Date,Place of Shipment,Mode of Payment
 32 90 065,11-Jul-13,Nagpur,Cash
 32 90 066,13-Jul-13,Nadurbar,Cheque
 32 90 067,23-Jul-13,Dhule,Cheque
-32 90 068,02-Aug-13,Ratnagiri,Online
-32 90 069,04-Sep-13,Dhule,Cheque
-32 90 070,07-Sep-13,Ratnagiri,Cheque
+32 90 068,2-Aug-13,Ratnagiri,Online
+32 90 069,4-Sep-13,Dhule,Cheque
+32 90 070,7-Sep-13,Ratnagiri,Cheque
